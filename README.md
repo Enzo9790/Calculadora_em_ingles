@@ -1,2 +1,2 @@
 # Calculadora_em_ingles
-fiz ela sozinha 0% ajuda de ia
+fiz ela sozinho 0% ajuda de ia
